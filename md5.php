@@ -23,3 +23,7 @@ echo 'MD5 file: ' . md5_file($path).' <br>';
 echo 'File size: ' . filesize($path) . ' bytes <br>';
 echo 'SHA1 file: ' . $sha1file . '<br>';
 echo 'SHA256 file: ' . $sha256 . '<br>';
+
+
+?>
+
